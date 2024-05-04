@@ -143,3 +143,4 @@ C:\Users\User\Desktop\API _Demo\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.
 C:\Users\User\Desktop\API _Demo\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\User\Desktop\API _Demo\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\User\Desktop\API _Demo\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Desktop\API _Demo\obj\Debug\net6.0\API _Demo.sourcelink.json
